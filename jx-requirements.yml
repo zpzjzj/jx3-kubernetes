@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "47.243.108.243.nip.io"
+    domain: cd2f388d94fd54db6badeaf5e894b321d.cn-hongkong.alicontainer.com
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
